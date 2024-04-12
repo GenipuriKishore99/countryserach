@@ -1,0 +1,9 @@
+.bg-3{
+    border: 2px solid rgb(0, 81, 255);
+    border-radius: 5px;
+    margin: 10px;
+    background-color:gainsboro;
+}
+.bg-4{
+    margin: 5px;
+}

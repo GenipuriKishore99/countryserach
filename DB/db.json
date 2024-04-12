@@ -1,0 +1,44 @@
+{
+  "countries": [
+    {
+      "id": 1
+    },
+    {
+      "name": "k",
+      "description": "j",
+      "id": 2
+    },
+    {
+      "name": "india",
+      "description": "india",
+      "id": 3
+    }
+  ],
+  "states": [
+    {
+      "id": 1
+    },
+    {
+      "state": "ap",
+      "description": "ap",
+      "id": 2
+    },
+    {
+      "country": "1",
+      "state": "ap",
+      "description": "ap",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "Nithis",
+      "email": "k@gmail.com",
+      "number": "5478845",
+      "country": "2",
+      "states": "2",
+      "address": "eesdrtfgyh",
+      "id": 4
+    }
+  ]
+}
